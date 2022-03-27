@@ -103,5 +103,5 @@ theme: lite
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/zl-mdc/blog.github.io
+  repo: git@47.108.94.227:/home/git/blog.git
   branch: master
